@@ -96,10 +96,9 @@ Based in **Fès, Morocco**. I speak **Arabic, French, and English**.
 
 <a href="https://github.com/Mohamed-bakkali"><img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
-<!-- Add verified contact information here:
-<a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
--->
+<a href="https://www.linkedin.com/in/mohamed-bakkali-002076292"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<!-- Add your professional email when ready. -->
 
 <br /><br />
 
