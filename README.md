@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm **Mohamed Bakkali**, an IT professional working as an **IT Support Expert at CGI**, with a background in enterprise infrastructure, systems, networks, and cybersecurity.
+I'm **Mohamed Bakkali**, an IT professional working as an **IT Support Expert at CGI** and a **cybersecurity student at the Faculty of Sciences, Meknes (FS Meknes), Morocco**, pursuing a **Master's in Cybersecurity of Networks and Information Systems**. My background spans enterprise infrastructure, systems, networks, and cybersecurity.
 
 I focus on keeping IT environments reliable, secure, and maintainable. My interests include **Active Directory security, infrastructure automation, DevSecOps, cloud security, and IT governance**.
 
@@ -27,6 +27,7 @@ Based in **Fès, Morocco**. I speak **Arabic, French, and English**.
 
 ## Current Focus
 
+- **Studying:** Master's in Cybersecurity of Networks and Information Systems at FS Meknes, Morocco.
 - **Working with:** enterprise IT support, endpoint management, and infrastructure operations.
 - **Exploring:** DevSecOps, observability, infrastructure security, and automation.
 - **Interested in:** cybersecurity engineering, cloud infrastructure, and security governance.
