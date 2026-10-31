@@ -5,7 +5,7 @@
 
 ### IT Infrastructure · Cybersecurity · DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=238636&center=true&vCenter=true&width=750&lines=Securing+systems.+Building+reliable+infrastructure.;IT+Support+Expert+%7C+Systems+%26+Networks;Exploring+DevSecOps+%26+Cloud+Security" alt="Animated professional tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=238636&center=true&vCenter=true&width=750&lines=Securing+systems.+Building+reliable+infrastructure.;IT+Expert+%7C+Systems+%26+Networks;Exploring+DevSecOps+%26+Cloud+Security" alt="Animated professional tagline" />
 
 <br />
 
