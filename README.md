@@ -1,56 +1,108 @@
-<!-- GitHub profile README for Mohamed-bakkali -->
-<div align="center">Mohamed Bakkali
-IT Infrastructure · Cybersecurity · DevSecOps
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=36B37E&center=true&vCenter=true&width=680&lines=Securing+systems.+Building+reliable+infrastructure.;IT+Support+Expert+%7C+Cybersecurity+Enthusiast;Exploring+DevSecOps+%26+Cloud+Security" alt="Animated professional tagline" />
-<img src="https://img.shields.io/badge/Based_in-F%C3%A8s%2C_Morocco-0969DA?style=flat-square" alt="Based in Fès, Morocco" />
-<img src="https://img.shields.io/badge/Focus-Infrastructure_%26_Security-238636?style=flat-square" alt="Infrastructure and security" />
-<img src="https://komarev.com/ghpvc/?username=Mohamed-bakkali&style=flat-square&color=64748b" alt="Profile views" /></div>About me
-I'm an IT Support Expert at CGI with a background in enterprise infrastructure, systems and networks, and cybersecurity. I work with IT service management and endpoint environments, and I enjoy making systems more secure, resilient, and maintainable.
+<!-- Professional GitHub profile README | Update contact links and skills as needed. -->
+<div align="center">
 
-My interests span Active Directory security, network administration, DevSecOps, monitoring, and IT governance. I use GitHub to document projects, experiment with new technologies, and share what I learn.
-- Currently exploring: DevSecOps, observability, infrastructure automation, and cloud security.
-- Interested in: Cybersecurity engineering, infrastructure engineering, and GRC.
-- Languages: Arabic · French · English.
-- Open to: Technical collaborations and knowledge sharing.
-Toolbox
-Systems & scripting
+# Mohamed Bakkali
 
+### IT Infrastructure · Cybersecurity · DevSecOps
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=238636&center=true&vCenter=true&width=750&lines=Securing+systems.+Building+reliable+infrastructure.;IT+Support+Expert+%7C+Systems+%26+Networks;Exploring+DevSecOps+%26+Cloud+Security" alt="Animated professional tagline" />
 
+<br />
 
+![Location](https://img.shields.io/badge/F%C3%A8s-Morocco-0969DA?style=flat-square)
+![Focus](https://img.shields.io/badge/Infrastructure-%26%20Cybersecurity-238636?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=Mohamed-bakkali&style=flat-square&color=64748b)
 
-Networking & security
+</div>
 
+---
 
+## About Me
 
+I'm **Mohamed Bakkali**, an IT professional working as an **IT Support Expert at CGI**, with a background in enterprise infrastructure, systems, networks, and cybersecurity.
 
+I focus on keeping IT environments reliable, secure, and maintainable. My interests include **Active Directory security, infrastructure automation, DevSecOps, cloud security, and IT governance**.
 
-DevSecOps & observability
+Based in **Fès, Morocco**. I speak **Arabic, French, and English**.
 
+## Current Focus
 
+- **Working with:** enterprise IT support, endpoint management, and infrastructure operations.
+- **Exploring:** DevSecOps, observability, infrastructure security, and automation.
+- **Interested in:** cybersecurity engineering, cloud infrastructure, and security governance.
+- **Open to:** technical collaboration and relevant professional opportunities.
 
+## Tech & Tools
 
+**Systems & scripting**
 
-Enterprise IT
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 
+**Networks & security**
 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-334155?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-334155?style=flat-square)
 
+**Virtualization, DevSecOps & observability**
 
-<!-- Edit the badges above to reflect your current hands-on skills. -->Featured work
-Project	Overview	Focus
-Click-and-Speak	A project exploring application delivery and DevSecOps practices.	DevSecOps · Monitoring
-Email Risk Analyzer	A repository focused on email-related risk analysis.	Cybersecurity · Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,grafana&theme=light" alt="Docker, Git, GitHub, GitHub Actions, Grafana" />
+</p>
 
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<!-- Update the project descriptions and technology labels after reviewing the repositories' latest implementations. -->
-<!-- Add another row when you publish your Active Directory GPO/SYSVOL security project. -->GitHub activity
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-bakkali&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-bakkali&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top repository languages" />
-<img src="https://streak-stats.demolab.com?user=Mohamed-bakkali&theme=transparent&hide_border=true" alt="GitHub contribution streak" /></div><!-- These stats use third-party image services; occasional downtime is possible. -->Let's connect
-<div align="center"><a href="https://github.com/Mohamed-bakkali"><img src="https://img.shields.io/badge/GitHub-View_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<!-- Add your real LinkedIn URL and professional email below, then remove the comment markers.
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+**Enterprise IT**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square)
+![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=flat-square)
+![GLPI](https://img.shields.io/badge/GLPI-475569?style=flat-square)
+
+<!-- Edit the badges to reflect your current hands-on skills. -->
+
+## Featured Projects
+
+| Project | Overview | Explore |
+| :--- | :--- | :--- |
+| **Click and Speak** | Development project with a focus on DevSecOps practices and monitoring. | [Repository](https://github.com/Mohamed-bakkali/Click-and-Speak) |
+| **Email Risk Analyzer** | Project exploring email risk analysis and security. | [Repository](https://github.com/Mohamed-bakkali/Email_Risk_Analyzer) |
+
+<!-- Add more projects once they are public and documented. -->
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-bakkali&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-bakkali&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" height="165" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Mohamed-bakkali&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/Mohamed-bakkali"><img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+<!-- Add verified contact information here:
+<a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 -->
-<sub>Secure systems. Reliable infrastructure. Continuous learning.</sub>
+
+<br /><br />
+
+**Secure infrastructure. Reliable systems. Continuous improvement.**
+
 </div>
